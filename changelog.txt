@@ -1,0 +1,5 @@
+v2.0.1
+
+* Fixed:
+- Improved OTA stability
+- Fixed EEPROM saving
